@@ -16,6 +16,8 @@ Python::
          
    sudo apt install python3-pip     #comando para instalar o python 3 e o pip em seu terminal
    
-Install the Python **docutils** package in the terminal using ``pip`` with::
+Instalando o Python::
 
-  python -m pip install docutil
+   python --version     #comando para verificar a versão do python instalada no seu terminal
+   
+   sudo apt install python3-pip     #comando para instalar o python 3 e o pip em seu terminal
