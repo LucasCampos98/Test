@@ -13,4 +13,5 @@ Para utilizar a plataforma Sphinx para gerar a documentação, deve-se ter insta
  #Python
  
  $ python --version #comando para verificar a versão do python instalada no seu terminal
+ 
  $ sudo apt install python3-pip #comando para instalar o python 3 e o pip em seu terminal
