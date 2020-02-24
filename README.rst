@@ -9,10 +9,18 @@ Este tutorial é indicado para usuarios do ubuntu
 ============
 Introdução
 ============
-Para utilizar a plataforma Sphinx para gerar a documentação, deve-se ter instalado em seu computador os programas a seguir:
+Para utilizar a plataforma readthedocs e gerar a documentação, deve-se ter instalado em seu computador algumas ferramentas. Os procedimentos para instalar tais programas está descrito a seguir.
    
 Instalando o Python::
 
-   python --version     #comando para verificar a versão do python instalada no seu terminal
+   $ python --version     #comando para verificar a versão do python instalada no seu terminal
    
-   sudo apt install python3-pip     #comando para instalar o python 3 e o pip em seu terminal
+   $ sudo apt install python3-pip     #comando para instalar o python 3 e o pip em seu terminal
+
+Instalando o Java::
+
+   $ java --version     #comando para verificar a versão do java instalada no seu terminal
+   
+   $ sudo apt-get install default-jre     #primeiro comando para instalar o java
+   
+   $sudo apt-get install default-jdk      #segundo comando para instalar o java
