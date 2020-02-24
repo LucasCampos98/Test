@@ -10,6 +10,7 @@ Este tutorial é indicado para usuarios do ubuntu
 Introdução
 ============
 Para utilizar a plataforma Sphinx para gerar a documentação, deve-se ter instalado em seu computador os programas a seguir:
+
 * Python: 
    python --version     #comando para verificar a versão do python instalada no seu terminal
          
