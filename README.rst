@@ -1,9 +1,7 @@
 """""""""""""""""""""""""""""""
 Tutorial de Readthedocs
 """""""""""""""""""""""""""""""
-++++++++++++++++++++++++++++++++++
-Learn to write beautiful documents
-++++++++++++++++++++++++++++++++++
+Este tutorial é indicado para usuarios do ubuntu
 
 .. contents:: Overview
    :depth: 2
